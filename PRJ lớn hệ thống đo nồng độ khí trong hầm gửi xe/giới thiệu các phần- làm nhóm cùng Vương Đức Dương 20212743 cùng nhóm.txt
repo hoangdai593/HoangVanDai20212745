@@ -1,0 +1,7 @@
+-giao tiếp adc với mq7
+-giao tiếp i2c với ccs811, lcd
+-truyền thông rs485 theo mạng bus
+-điều khiển rơ le 
+-điều khiển quạt bang xung PWM
+-giao tiếp usb
+-thiết kế server hiển thị

@@ -1,0 +1,8 @@
+../Core/Src/warning.c:11:6:L2_Warning_On	8	static
+../Core/Src/warning.c:22:6:L2_Warning_Off	8	static
+../Core/Src/warning.c:26:6:L3_Warning_On	8	static
+../Core/Src/warning.c:37:6:L3_Warning_Off	8	static
+../Core/Src/warning.c:42:6:L1_Warning_On	8	static
+../Core/Src/warning.c:53:6:L1_Warning_Off	8	static
+../Core/Src/warning.c:57:6:Auto_Warning	8	static
+../Core/Src/warning.c:73:6:Manual_Warning	8	static

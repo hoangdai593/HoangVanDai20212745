@@ -1,0 +1,5 @@
+../Core/Src/rs_related_node_do.c:8:9:calculate_lrc	3
+../Core/Src/rs_related_node_do.c:31:9:check_lrc	2
+../Core/Src/rs_related_node_do.c:50:6:hexdec_to_ascii	1
+../Core/Src/rs_related_node_do.c:54:6:dec_to_ascii	1
+../Core/Src/rs_related_node_do.c:57:6:RS485_data_to_send	1

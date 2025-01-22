@@ -1,0 +1,6 @@
+../Core/Src/rs_related_node_tong.c:8:9:calculate_lrc	3
+../Core/Src/rs_related_node_tong.c:31:9:check_lrc	2
+../Core/Src/rs_related_node_tong.c:50:6:hexdec_to_ascii	1
+../Core/Src/rs_related_node_tong.c:56:6:RS485_SendCommand	1
+../Core/Src/rs_related_node_tong.c:70:6:encode_ppm_data	1
+../Core/Src/rs_related_node_tong.c:79:6:decode_ppm_ver3	1

@@ -1,0 +1,10 @@
+*PRJ được thực hiện cùng thành viên Dương Tuấn Cường-20212709 cùng nhóm 03:
+-giao tiếp SPI với đầu đọc thẻ rfid
+-giao tiếp i2c với lcd
+-đọc tín hiệu độ rộng xung từ cảm biến
+-điều khiển động cơ bước 
+-truyền thông RS485 theo dạng bus
+-Giao tiếp USB
+-thiết kế server
+
+

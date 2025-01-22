@@ -1,0 +1,6 @@
+../Core/Src/led.c:9:6:L2_LED_On	8	static
+../Core/Src/led.c:15:6:L3_LED_On	8	static
+../Core/Src/led.c:21:6:L1_LED_On	8	static
+../Core/Src/led.c:27:6:L1_3_LED_Off	8	static
+../Core/Src/led.c:33:6:AT_LED_On	8	static
+../Core/Src/led.c:37:6:AT_LED_Off	8	static
